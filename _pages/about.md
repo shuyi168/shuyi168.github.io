@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<p style="font-family: Arial, sans-serif; text-align: justify;">
+<p style="font-family: Times New Roman; text-align: justify;">
 Bachelor's Degree: Zhejiang University School of Medicine. GPA(4.61/5), Rank(1/73)<br>
 Master's Degree in progress: Vanke School of Public Health, Tsinghua University.
 </p>
@@ -15,7 +15,7 @@ Master's Degree in progress: Vanke School of Public Health, Tsinghua University.
 <span style='font-family: Times New Roman;'>Student work experience</span>
 ======
 **<span style='font-family: Times New Roman;'>Zhejiang University</span>**
-<p style="font-family: Arial, sans-serif; text-align: justify;">
+<p style="font-family: Times New Roman; text-align: justify;">
 1.Secretary of the General Branch of Zhejiang University School of Medicine, Class of 2019<br>
 2.Leader of Apricot Grove Art Troupe, Zhejiang University School of Medicine<br>
 3.Class President of Preventive Medicine 1901, Zhejiang University School of Medicine<br>
