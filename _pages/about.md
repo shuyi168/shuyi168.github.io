@@ -12,12 +12,9 @@ Bachelor's Degree: Zhejiang University School of Medicine. GPA(4.61/5), Rank(1/7
 Master's Degree in progress: Vanke School of Public Health, Tsinghua University.
 </p>
 
-<p style="font-family: Times New Roman, serif; text-align: justify;">
   
 Student work experience
 ======
-
-</p>
 
 **Zhejiang University**<br>
 1.Secretary of the General Branch of Zhejiang University School of Medicine, Class of 2019<br>
