@@ -27,9 +27,14 @@ Master's Degree in progress: Vanke School of Public Health, Tsinghua University.
 
 <span style='font-family: Times New Roman;'>Honours and Awards</span>
 ======
-<span style='font-family: Times New Roman;'></span>  
 <span style='font-family: Times New Roman;'>1. Zhu Kezhen Scholarship (the highest level scholarship of Zhejiang University)</span>  
-
+<span style='font-family: Times New Roman;'></span>  
+<span style='font-family: Times New Roman;'></span>  
+<span style='font-family: Times New Roman;'></span>  
+<span style='font-family: Times New Roman;'></span>  
+<span style='font-family: Times New Roman;'></span>  
+<span style='font-family: Times New Roman;'></span>  
+<span style='font-family: Times New Roman;'></span>  
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
