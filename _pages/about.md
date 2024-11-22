@@ -21,12 +21,11 @@ Master's Degree in progress: Vanke School of Public Health, Tsinghua University.
 <span style='font-family: Times New Roman;'>4.Leader of Zhejiang University School of Medicine Summer Practice Group</span>  
 <span style='font-family: Times New Roman;'>5.Officer of Zhejiang University Photography Association</span>  
 <span style='font-family: Times New Roman;'>6.Member of Zhejiang University Athletic Team</span>  
-
 **<span style='font-family: Times New Roman;'>Tsinghua University</span>**  
 <span style='font-family: Times New Roman;'>1.Secretary of the Party Branch of Public Health Master 4, Tsinghua University</span>  
 <span style='font-family: Times New Roman;'>2.Captain of Badminton Team, Tsinghua University School of Medicine</span>  
 
-Honours and Awards
+<span style='font-family: Times New Roman;'>Honours and Awards</span>
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
