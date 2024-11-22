@@ -14,7 +14,7 @@ Master's Degree in progress: Vanke School of Public Health, Tsinghua University.
 
 <span style='font-family: Times New Roman;'>Student work experience</span>
 ======
-**<span style='font-family: Times New Roman;'>Zhejiang University</span>**
+**<span style='font-family: Times New Roman;'>Zhejiang University</span>**  
 <span style='font-family: Times New Roman;'>1.Secretary of the General Branch of Zhejiang University School of Medicine, Class of 2019</span>  
 2.Leader of Apricot Grove Art Troupe, Zhejiang University School of Medicine<br>
 3.Class President of Preventive Medicine 1901, Zhejiang University School of Medicine<br>
