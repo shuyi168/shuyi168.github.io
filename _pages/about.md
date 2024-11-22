@@ -1,19 +1,16 @@
 ---
 permalink: /
-title: "<span style='font-family: Times New Roman;'>Educational Background</span>"
+title: "Educational Background"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<p style="font-family: Times New Roman, serif; text-align: justify;">
 Bachelor's Degree: Zhejiang University School of Medicine. GPA(4.61/5), Rank(1/73)<br>
 Master's Degree in progress: Vanke School of Public Health, Tsinghua University.
-</p>
-
   
-"<span style='font-family: Times New Roman;'>Educational Background</span>"
+Educational Background
 ======
 
 **Zhejiang University**<br>
