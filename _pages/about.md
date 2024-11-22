@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<p style="text-align: justify;">
+<p style="font-family: Times New Roman, serif; text-align: justify;">
 Bachelor's Degree: Zhejiang University School of Medicine GPA(4.61/5) Rank(1/73)<br>
 Master's Degree in progress: Vanke School of Public Health, Tsinghua University
 </p>
