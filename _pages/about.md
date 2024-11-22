@@ -10,7 +10,7 @@ redirect_from:
 <p style="font-family: Times New Roman, serif; text-align: justify;">
 Bachelor's Degree: Zhejiang University School of Medicine. GPA(4.61/5), Rank(1/73)<br>
 Master's Degree in progress: Vanke School of Public Health, Tsinghua University.
-</p>
+
 
 Student work experience
 ======
@@ -25,6 +25,7 @@ Student work experience
 **Tsinghua university**<br>
 1.Secretary of the Party Branch of Public Health Master 4, Tsinghua University<br>
 2.Captain of Badminton Team, Tsinghua University School of Medicine<br>
+</p>
 
 Honours and Awards
 ======
