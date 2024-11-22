@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Bachelor's Degree: Zhejiang University School of Medicine GPA(4.61/5) Rank(1/73)
-
+Bachelor's Degree: Zhejiang University School of Medicine GPA(4.61/5) Rank(1/73)<br>
 Master's Degree in progress: Vanke School of Public Health, Tsinghua University
 
 A data-driven personal website
