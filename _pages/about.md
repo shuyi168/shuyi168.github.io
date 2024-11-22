@@ -7,22 +7,24 @@ redirect_from:
   - /about.html
 ---
 
+<p style="text-align: justify;">
 Bachelor's Degree: Zhejiang University School of Medicine GPA(4.61/5) Rank(1/73)<br>
 Master's Degree in progress: Vanke School of Public Health, Tsinghua University
+</p>
 
 Student work experience
 ======
-**Zhejiang University**
-1.Secretary of the General Branch of Zhejiang University School of Medicine, Class of 2019
-2.Leader of Apricot Grove Art Troupe, Zhejiang University School of Medicine
-3.Class President of Preventive Medicine 1901, Zhejiang University School of Medicine
-4.Leader of Zhejiang University School of Medicine Summer Practice Group 
-5.Officer of Zhejiang University Photography Association
-6.Member of Zhejiang University Athletic Team
+**Zhejiang University**<br>
+1.Secretary of the General Branch of Zhejiang University School of Medicine, Class of 2019<br>
+2.Leader of Apricot Grove Art Troupe, Zhejiang University School of Medicine<br>
+3.Class President of Preventive Medicine 1901, Zhejiang University School of Medicine<br>
+4.Leader of Zhejiang University School of Medicine Summer Practice Group<br>
+5.Officer of Zhejiang University Photography Association<br>
+6.Member of Zhejiang University Athletic Team<br>
 
-**Tsinghua university**
-1.Secretary of the Party Branch of Public Health Master 4, Tsinghua University
-2.Captain of Badminton Team, Tsinghua University School of Medicine
+**Tsinghua university**<br>
+1.Secretary of the Party Branch of Public Health Master 4, Tsinghua University<br>
+2.Captain of Badminton Team, Tsinghua University School of Medicine<br>
 
 Honours and Awards
 ======
