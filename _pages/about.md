@@ -31,10 +31,7 @@ Student work experience
 1.Secretary of the Party Branch of Public Health Master 4, Tsinghua University<br>
 2.Captain of Badminton Team, Tsinghua University School of Medicine<br>
 
-</div>
-
-
-Honours and Awardshhhhhh
+Honours and Awards
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
