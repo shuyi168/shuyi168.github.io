@@ -14,7 +14,6 @@ Master's Degree in progress: Vanke School of Public Health, Tsinghua University.
 
 <span style='font-family: Times New Roman;'>Student work experience</span>
 ======
-
 **<span style='font-family: Times New Roman;'>Zhejiang University</span>**
 <p style="font-family: Arial, sans-serif; text-align: justify;">
 1.Secretary of the General Branch of Zhejiang University School of Medicine, Class of 2019<br>
