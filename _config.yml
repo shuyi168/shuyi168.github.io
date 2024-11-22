@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "China"
-title                    : "Shuyi Jin / CV"
+title                    : "Shuyi Jin / Home"
 title_separator          : "-"
 name                     : &name "Shuyi Jin"
 description              : &description "ISFP"
