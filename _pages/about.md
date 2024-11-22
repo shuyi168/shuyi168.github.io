@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Educational Background"
+title: "<span style='font-family: Times New Roman;'>Educational Background</span>"
 author_profile: true
 redirect_from: 
   - /about/
