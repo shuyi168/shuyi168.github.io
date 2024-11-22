@@ -13,7 +13,7 @@ Master's Degree in progress: Vanke School of Public Health, Tsinghua University.
 </p>
 
   
-Student work experience
+"<span style='font-family: Times New Roman;'>Educational Background</span>"
 ======
 
 **Zhejiang University**<br>
