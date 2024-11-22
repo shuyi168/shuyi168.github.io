@@ -12,7 +12,7 @@ title                    : "Shuyi Jin / CV"
 title_separator          : "-"
 name                     : &name "Shuyi Jin"
 description              : &description "personal description"
-url                      : https://shuyi168.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://shuyi168.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shuyi168/shuyi168.github.io"
 
