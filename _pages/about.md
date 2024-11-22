@@ -16,15 +16,15 @@ Master's Degree in progress: Vanke School of Public Health, Tsinghua University.
 ======
 **<span style='font-family: Times New Roman;'>Zhejiang University</span>**  
 <span style='font-family: Times New Roman;'>1.Secretary of the General Branch of Zhejiang University School of Medicine, Class of 2019</span>  
-2.Leader of Apricot Grove Art Troupe, Zhejiang University School of Medicine<br>
-3.Class President of Preventive Medicine 1901, Zhejiang University School of Medicine<br>
-4.Leader of Zhejiang University School of Medicine Summer Practice Group<br>
-5.Officer of Zhejiang University Photography Association<br>
-6.Member of Zhejiang University Athletic Team
+<span style='font-family: Times New Roman;'>2.Leader of Apricot Grove Art Troupe, Zhejiang University School of Medicine</span>  
+<span style='font-family: Times New Roman;'>3.Class President of Preventive Medicine 1901, Zhejiang University School of Medicine</span>  
+<span style='font-family: Times New Roman;'>4.Leader of Zhejiang University School of Medicine Summer Practice Group</span>  
+<span style='font-family: Times New Roman;'>5.Officer of Zhejiang University Photography Association</span>  
+<span style='font-family: Times New Roman;'>6.Member of Zhejiang University Athletic Team</span>  
 
-**Tsinghua University**<br>
-1.Secretary of the Party Branch of Public Health Master 4, Tsinghua University<br>
-2.Captain of Badminton Team, Tsinghua University School of Medicine<br>
+**<span style='font-family: Times New Roman;'>Tsinghua University</span>**  
+<span style='font-family: Times New Roman;'>1.Secretary of the Party Branch of Public Health Master 4, Tsinghua University</span>  
+<span style='font-family: Times New Roman;'>2.Captain of Badminton Team, Tsinghua University School of Medicine</span>  
 
 Honours and Awards
 ======
