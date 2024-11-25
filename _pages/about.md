@@ -37,7 +37,7 @@ Master's Degree in progress: Vanke School of Public Health, Tsinghua University.
 
 <span style='font-family: Times New Roman;'>Publications</span>
 ------
-<span style='font-family: Times New Roman;'>1. <b>Jin S</b><sup>#</sup>, Li C<sup>#</sup>, Miao J, et al. Sociodemographic Factors Predict Incident Mild Cognitive Impairment: A Brief Review and Empirical Study. J Am Med Dir Assoc. 2023 Sep 14. [[Pubmed]](https://pubmed.ncbi.nlm.nih.gov/37716705/)</span>  
+<span style='font-family: Times New Roman;'>1. <b>Jin S</b><sup>#</sup>, Li C<sup>#</sup>, Miao J, et al. Sociodemographic Factors Predict Incident Mild Cognitive Impairment: A Brief Review and Empirical Study. J Am Med Dir Assoc. 2023 Sep 14. [[Pubmed]](https://pubmed.ncbi.nlm.nih.gov/37716705/) [[Google]](https://www.sciencedirect.com/science/article/abs/pii/S1525861023007272)</span>  
 <span style='font-family: Times New Roman;'>2. <b>Jin S</b><sup>#</sup>, Li C<sup>#</sup>, Cao X, et al. Association of lifestyle with mortality and the mediating role of aging among older adults in China. Arch Gerontol Geriatr. 2022 Jan-Feb.</span>  
 <span style='font-family: Times New Roman;'>3. Sun K<sup>#</sup>, <b>Jin S</b><sup>#</sup>, Yang Z, et al. Transition to healthier lifestyle associated with reduced risk of incident dementia and decreased hippocampal atrophy. J Affect Disord. 2024 Jan 7.</span>  
 <span style='font-family: Times New Roman;'>4. Li C<sup>#</sup>, <b>Jin S</b><sup>#</sup>, Cao X, et al. Catastrophic health expenditure among Chinese adults living alone with cognitive impairment: findings from the CHARLS. BMC Geriatr. 2022 Aug 4. </span>  
