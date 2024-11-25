@@ -28,19 +28,13 @@ Master's Degree in progress: Vanke School of Public Health, Tsinghua University.
 <span style='font-family: Times New Roman;'>Honours and Awards</span>
 ======
 <span style='font-family: Times New Roman;'>1. Zhu Kezhen Scholarship (the highest level scholarship of Zhejiang University)</span>  
-<span style='font-family: Times New Roman;'></span>  
-<span style='font-family: Times New Roman;'></span>  
-<span style='font-family: Times New Roman;'></span>  
-<span style='font-family: Times New Roman;'></span>  
-<span style='font-family: Times New Roman;'></span>  
-<span style='font-family: Times New Roman;'></span>  
-<span style='font-family: Times New Roman;'></span>  
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+<span style='font-family: Times New Roman;'>2. Three times National Scholarship (2019-2020/2020-2021/2022-2023)</span>  
+<span style='font-family: Times New Roman;'>3. Four times Zhejiang University First Class Scholarship (2019-2020/2020-2021/2021-2022/2022-2023)</span>  
+<span style='font-family: Times New Roman;'>4. Outstanding Graduates of Zhejiang Province</span>  
+<span style='font-family: Times New Roman;'>5. Runner-up of Men's 800m in Zhejiang Provincial University Games</span>  
+<span style='font-family: Times New Roman;'>6. Top Ten Students of Zhejiang University/Top Ten Students of Zhejiang University School of Medicine</span>  
+<span style='font-family: Times New Roman;'>7. Zhejiang University's nine consecutive titles in school athletics</span>  
+
 
 Site-wide configuration
 ------
