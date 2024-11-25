@@ -56,36 +56,49 @@ Master's Degree in progress: Vanke School of Public Health, Tsinghua University.
 
 
 
+<style>
+  ol {
+    padding-left: 20px; /* 保持标号位置美观 */
+  }
+  li {
+    text-indent: 0; /* 标号位置不缩进 */
+    margin-left: 0; /* 保持初始左边距 */
+  }
+  li p {
+    text-indent: 20px; /* 仅换行内容缩进 */
+    margin: 0; /* 去掉段落的额外间距 */
+  }
+</style>
 
 <ol>
   <li>
-    <b>Jin S</b><sup>#</sup>, Li C<sup>#</sup>, Miao J, et al. Sociodemographic Factors Predict Incident Mild Cognitive Impairment: A Brief Review and Empirical Study. 
+    <p><b>Jin S</b><sup>#</sup>, Li C<sup>#</sup>, Miao J, et al. Sociodemographic Factors Predict Incident Mild Cognitive Impairment: A Brief Review and Empirical Study. 
     <i>J Am Med Dir Assoc.</i> 2023 Sep 14. 
     <a href="https://pubmed.ncbi.nlm.nih.gov/37716705/">[Pubmed]</a> 
-    <a href="https://www.sciencedirect.com/science/article/abs/pii/S1525861023007272">[Google]</a>
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S1525861023007272">[Google]</a></p>
   </li>
   <li>
-    <b>Jin S</b><sup>#</sup>, Li C<sup>#</sup>, Cao X, et al. Association of lifestyle with mortality and the mediating role of aging among older adults in China. 
+    <p><b>Jin S</b><sup>#</sup>, Li C<sup>#</sup>, Cao X, et al. Association of lifestyle with mortality and the mediating role of aging among older adults in China. 
     <i>Arch Gerontol Geriatr.</i> 2022 Jan-Feb. 
     <a href="https://pubmed.ncbi.nlm.nih.gov/34741896/">[Pubmed]</a> 
-    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167494321002223?via%3Dihub">[Google]</a>
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167494321002223?via%3Dihub">[Google]</a></p>
   </li>
   <li>
-    Sun K<sup>#</sup>, <b>Jin S</b><sup>#</sup>, Yang Z, et al. Transition to healthier lifestyle associated with reduced risk of incident dementia and decreased hippocampal atrophy. 
+    <p>Sun K<sup>#</sup>, <b>Jin S</b><sup>#</sup>, Yang Z, et al. Transition to healthier lifestyle associated with reduced risk of incident dementia and decreased hippocampal atrophy. 
     <i>J Affect Disord.</i> 2024 Jan 7. 
     <a href="https://pubmed.ncbi.nlm.nih.gov/38195008/">[Pubmed]</a> 
-    <a href="https://www.sciencedirect.com/science/article/abs/pii/S016503272400017X?via%3Dihub">[Google]</a>
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S016503272400017X?via%3Dihub">[Google]</a></p>
   </li>
   <li>
-    Li C<sup>#</sup>, <b>Jin S</b><sup>#</sup>, Cao X, et al. Catastrophic health expenditure among Chinese adults living alone with cognitive impairment: findings from the CHARLS. 
+    <p>Li C<sup>#</sup>, <b>Jin S</b><sup>#</sup>, Cao X, et al. Catastrophic health expenditure among Chinese adults living alone with cognitive impairment: findings from the CHARLS. 
     <i>BMC Geriatr.</i> 2022 Aug 4. 
     <a href="https://pubmed.ncbi.nlm.nih.gov/35922775/">[Pubmed]</a> 
-    <a href="https://bmcgeriatr.biomedcentral.com/articles/10.1186/s12877-022-03341-8">[Google]</a>
+    <a href="https://bmcgeriatr.biomedcentral.com/articles/10.1186/s12877-022-03341-8">[Google]</a></p>
   </li>
   <li>
-    Liu X<sup>#</sup>, Li C<sup>#</sup>, <b>Jin S</b><sup>#</sup>, et al. Functional disability and receipt of informal care among Chinese adults living alone with cognitive impairment. 
+    <p>Liu X<sup>#</sup>, Li C<sup>#</sup>, <b>Jin S</b><sup>#</sup>, et al. Functional disability and receipt of informal care among Chinese adults living alone with cognitive impairment. 
     <a href="https://pubmed.ncbi.nlm.nih.gov/38876449/">[Pubmed]</a> 
-    <a href="https://www.sciencedirect.com/science/article/pii/S0531556524001323?via%3Dihub">[Google]</a>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0531556524001323?via%3Dihub">[Google]</a></p>
   </li>
 </ol>
 
