@@ -57,13 +57,30 @@ Master's Degree in progress: Vanke School of Public Health, Tsinghua University.
 
 
 
+<style>
+  ol {
+    list-style-position: inside; /* 将标号移动到内容内部 */
+    padding-left: 0; /* 移除整体的左侧内边距 */
+    margin-left: 0; /* 移除整体的左侧外边距 */
+  }
+  li {
+    text-indent: 0; /* 防止标号和文本缩进 */
+    margin-left: 0; /* 移除多余外边距 */
+    padding-left: 0; /* 移除多余内边距 */
+  }
+  li p {
+    text-indent: 20px; /* 仅换行时内容缩进 */
+    margin: 0; /* 去掉段落的默认间距 */
+  }
+</style>
+
 <ol>
-<li>
-<p><b>Jin S</b><sup>#</sup>, Li C<sup>#</sup>, Miao J, et al. Sociodemographic Factors Predict Incident Mild Cognitive Impairment: A Brief Review and Empirical Study. 
-<i>J Am Med Dir Assoc.</i> 2023 Sep 14. 
-<a href="https://pubmed.ncbi.nlm.nih.gov/37716705/">[Pubmed]</a> 
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S1525861023007272">[Google]</a></p>
-</li>
+  <li>
+    <p><b>Jin S</b><sup>#</sup>, Li C<sup>#</sup>, Miao J, et al. Sociodemographic Factors Predict Incident Mild Cognitive Impairment: A Brief Review and Empirical Study. 
+    <i>J Am Med Dir Assoc.</i> 2023 Sep 14. 
+    <a href="https://pubmed.ncbi.nlm.nih.gov/37716705/">[Pubmed]</a> 
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S1525861023007272">[Google]</a></p>
+  </li>
   <li>
     <p><b>Jin S</b><sup>#</sup>, Li C<sup>#</sup>, Cao X, et al. Association of lifestyle with mortality and the mediating role of aging among older adults in China. 
     <i>Arch Gerontol Geriatr.</i> 2022 Jan-Feb. 
