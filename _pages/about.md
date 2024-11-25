@@ -53,4 +53,46 @@ Master's Degree in progress: Vanke School of Public Health, Tsinghua University.
 <span style='font-family: Times New Roman;'>6. Top Ten Students of Zhejiang University/Top Ten Students of Zhejiang University School of Medicine</span>  
 <span style='font-family: Times New Roman;'>7. Zhejiang University's nine consecutive titles in school athletics</span>  
 
+<style>
+  ol {
+    padding-left: 20px; /* 调整整个列表的左缩进 */
+  }
+  li {
+    text-indent: -20px; /* 将标号对齐左侧 */
+    margin-left: 20px;  /* 内容部分缩进 */
+  }
+</style>
+
+<ol>
+  <li>
+    <b>Jin S</b><sup>#</sup>, Li C<sup>#</sup>, Miao J, et al. Sociodemographic Factors Predict Incident Mild Cognitive Impairment: A Brief Review and Empirical Study. 
+    <i>J Am Med Dir Assoc.</i> 2023 Sep 14. 
+    <a href="https://pubmed.ncbi.nlm.nih.gov/37716705/">[Pubmed]</a> 
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S1525861023007272">[Google]</a>
+  </li>
+  <li>
+    <b>Jin S</b><sup>#</sup>, Li C<sup>#</sup>, Cao X, et al. Association of lifestyle with mortality and the mediating role of aging among older adults in China. 
+    <i>Arch Gerontol Geriatr.</i> 2022 Jan-Feb. 
+    <a href="https://pubmed.ncbi.nlm.nih.gov/34741896/">[Pubmed]</a> 
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167494321002223?via%3Dihub">[Google]</a>
+  </li>
+  <li>
+    Sun K<sup>#</sup>, <b>Jin S</b><sup>#</sup>, Yang Z, et al. Transition to healthier lifestyle associated with reduced risk of incident dementia and decreased hippocampal atrophy. 
+    <i>J Affect Disord.</i> 2024 Jan 7. 
+    <a href="https://pubmed.ncbi.nlm.nih.gov/38195008/">[Pubmed]</a> 
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S016503272400017X?via%3Dihub">[Google]</a>
+  </li>
+  <li>
+    Li C<sup>#</sup>, <b>Jin S</b><sup>#</sup>, Cao X, et al. Catastrophic health expenditure among Chinese adults living alone with cognitive impairment: findings from the CHARLS. 
+    <i>BMC Geriatr.</i> 2022 Aug 4. 
+    <a href="https://pubmed.ncbi.nlm.nih.gov/35922775/">[Pubmed]</a> 
+    <a href="https://bmcgeriatr.biomedcentral.com/articles/10.1186/s12877-022-03341-8">[Google]</a>
+  </li>
+  <li>
+    Liu X<sup>#</sup>, Li C<sup>#</sup>, <b>Jin S</b><sup>#</sup>, et al. Functional disability and receipt of informal care among Chinese adults living alone with cognitive impairment. 
+    <a href="https://pubmed.ncbi.nlm.nih.gov/38876449/">[Pubmed]</a> 
+    <a href="https://www.sciencedirect.com/science/article/pii/S0531556524001323?via%3Dihub">[Google]</a>
+  </li>
+</ol>
+
 
