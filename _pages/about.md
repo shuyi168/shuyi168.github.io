@@ -35,6 +35,15 @@ Master's Degree in progress: Vanke School of Public Health, Tsinghua University.
 <span style='font-family: Times New Roman;'>6. Top Ten Students of Zhejiang University/Top Ten Students of Zhejiang University School of Medicine</span>  
 <span style='font-family: Times New Roman;'>7. Zhejiang University's nine consecutive titles in school athletics</span>  
 
+<span style='font-family: Times New Roman;'>Publications</span>
+------
+<span style='font-family: Times New Roman;'>1. Zhu Kezhen Scholarship (the highest level scholarship of Zhejiang University)</span>  
+<span style='font-family: Times New Roman;'>2. Three times National Scholarship (2019-2020/2020-2021/2022-2023)</span>  
+<span style='font-family: Times New Roman;'>3. Four times Zhejiang University First Class Scholarship (2019-2020/2020-2021/2021-2022/2022-2023)</span>  
+<span style='font-family: Times New Roman;'>4. Outstanding Graduates of Zhejiang Province</span>  
+<span style='font-family: Times New Roman;'>5. Runner-up of Men's 800m in Zhejiang Provincial University Games</span>  
+<span style='font-family: Times New Roman;'>6. Top Ten Students of Zhejiang University/Top Ten Students of Zhejiang University School of Medicine</span>  
+<span style='font-family: Times New Roman;'>7. Zhejiang University's nine consecutive titles in school athletics</span>  
 
 Site-wide configuration
 ------
