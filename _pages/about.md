@@ -13,7 +13,7 @@ Master's Degree in progress: Vanke School of Public Health, Tsinghua University.
 </p>
 
 <span style='font-family: Times New Roman;'>Student work experience</span>
-======
+------
 **<span style='font-family: Times New Roman;'>Zhejiang University</span>**  
 <span style='font-family: Times New Roman;'>1. Secretary of the General Branch of Zhejiang University School of Medicine, Class of 2019</span>  
 <span style='font-family: Times New Roman;'>2. Leader of Apricot Grove Art Troupe, Zhejiang University School of Medicine</span>  
@@ -26,7 +26,7 @@ Master's Degree in progress: Vanke School of Public Health, Tsinghua University.
 <span style='font-family: Times New Roman;'>2. Captain of Badminton Team, Tsinghua University School of Medicine</span>  
 
 <span style='font-family: Times New Roman;'>Honours and Awards</span>
-======
+------
 <span style='font-family: Times New Roman;'>1. Zhu Kezhen Scholarship (the highest level scholarship of Zhejiang University)</span>  
 <span style='font-family: Times New Roman;'>2. Three times National Scholarship (2019-2020/2020-2021/2022-2023)</span>  
 <span style='font-family: Times New Roman;'>3. Four times Zhejiang University First Class Scholarship (2019-2020/2020-2021/2021-2022/2022-2023)</span>  
