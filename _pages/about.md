@@ -56,7 +56,7 @@ Master's Degree in progress: Vanke School of Public Health, Tsinghua University.
 
 
 
-<ol>
+
   <li>
     <b>Jin S</b><sup>#</sup>, Li C<sup>#</sup>, Miao J, et al. Sociodemographic Factors Predict Incident Mild Cognitive Impairment: A Brief Review and Empirical Study. 
     <i>J Am Med Dir Assoc.</i> 2023 Sep 14. 
@@ -86,6 +86,6 @@ Master's Degree in progress: Vanke School of Public Health, Tsinghua University.
     <a href="https://pubmed.ncbi.nlm.nih.gov/38876449/">[Pubmed]</a> 
     <a href="https://www.sciencedirect.com/science/article/pii/S0531556524001323?via%3Dihub">[Google]</a>
   </li>
-</ol>
+
 
 
