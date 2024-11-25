@@ -37,8 +37,8 @@ Master's Degree in progress: Vanke School of Public Health, Tsinghua University.
 
 <span style='font-family: Times New Roman;'>Publications</span>
 ------
-<span style='font-family: Times New Roman;'>1. Jin S#, Li C#, Miao J, et al. Sociodemographic Factors Predict Incident Mild Cognitive Impairment: A Brief Review and Empirical Study. J Am Med Dir Assoc. 2023 Sep 14.</span>  
-<span style='font-family: Times New Roman;'>2. Three times National Scholarship (2019-2020/2020-2021/2022-2023)</span>  
+<span style='font-family: Times New Roman;'>1. <b>Jin S</b><sup>#</sup>, Li C<sup>#</sup>, Miao J, et al. Sociodemographic Factors Predict Incident Mild Cognitive Impairment: A Brief Review and Empirical Study. J Am Med Dir Assoc. 2023 Sep 14.</span>  
+<span style='font-family: Times New Roman;'>2. Jin S#, Li C#, Cao X, Chen C, Ye Z, Liu Z*. Association of lifestyle with mortality and the mediating role of aging among older adults in China. Arch Gerontol Geriatr. 2022 Jan-Feb.</span>  
 <span style='font-family: Times New Roman;'>3. Four times Zhejiang University First Class Scholarship (2019-2020/2020-2021/2021-2022/2022-2023)</span>  
 <span style='font-family: Times New Roman;'>4. Outstanding Graduates of Zhejiang Province</span>  
 <span style='font-family: Times New Roman;'>5. Runner-up of Men's 800m in Zhejiang Provincial University Games</span>  
