@@ -56,27 +56,14 @@ Master's Degree in progress: Vanke School of Public Health, Tsinghua University.
 
 
 
-<style>
-  ol {
-    padding-left: 0; /* 保持标号位置美观 */
-  }
-  li {
-    text-indent: 0; /* 标号位置不缩进 */
-    margin-left: 0; /* 保持初始左边距 */
-  }
-  li p {
-    text-indent: 0; /* 仅换行内容缩进 */
-    margin: 0; /* 去掉段落的额外间距 */
-  }
-</style>
 
 <ol>
-  <li>
-    <p><b>Jin S</b><sup>#</sup>, Li C<sup>#</sup>, Miao J, et al. Sociodemographic Factors Predict Incident Mild Cognitive Impairment: A Brief Review and Empirical Study. 
-    <i>J Am Med Dir Assoc.</i> 2023 Sep 14. 
-    <a href="https://pubmed.ncbi.nlm.nih.gov/37716705/">[Pubmed]</a> 
-    <a href="https://www.sciencedirect.com/science/article/abs/pii/S1525861023007272">[Google]</a></p>
-  </li>
+<li>
+<p><b>Jin S</b><sup>#</sup>, Li C<sup>#</sup>, Miao J, et al. Sociodemographic Factors Predict Incident Mild Cognitive Impairment: A Brief Review and Empirical Study. 
+<i>J Am Med Dir Assoc.</i> 2023 Sep 14. 
+<a href="https://pubmed.ncbi.nlm.nih.gov/37716705/">[Pubmed]</a> 
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S1525861023007272">[Google]</a></p>
+</li>
   <li>
     <p><b>Jin S</b><sup>#</sup>, Li C<sup>#</sup>, Cao X, et al. Association of lifestyle with mortality and the mediating role of aging among older adults in China. 
     <i>Arch Gerontol Geriatr.</i> 2022 Jan-Feb. 
