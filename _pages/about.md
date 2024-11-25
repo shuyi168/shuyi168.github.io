@@ -58,14 +58,14 @@ Master's Degree in progress: Vanke School of Public Health, Tsinghua University.
 
 <style>
   ol {
-    padding-left: 20px; /* 保持标号位置美观 */
+    padding-left: 0; /* 保持标号位置美观 */
   }
   li {
     text-indent: 0; /* 标号位置不缩进 */
     margin-left: 0; /* 保持初始左边距 */
   }
   li p {
-    text-indent: 20px; /* 仅换行内容缩进 */
+    text-indent: 0; /* 仅换行内容缩进 */
     margin: 0; /* 去掉段落的额外间距 */
   }
 </style>
