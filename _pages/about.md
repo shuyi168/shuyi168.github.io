@@ -37,13 +37,11 @@ Master's Degree in progress: Vanke School of Public Health, Tsinghua University.
 
 <span style='font-family: Times New Roman;'>Publications</span>
 ------
-<span style='font-family: Times New Roman;'>1. <b>Jin S</b><sup>#</sup>, Li C<sup>#</sup>, Miao J, et al. Sociodemographic Factors Predict Incident Mild Cognitive Impairment: A Brief Review and Empirical Study. J Am Med Dir Assoc. 2023 Sep 14.</span>  
-<span style='font-family: Times New Roman;'>2. Jin S#, Li C#, Cao X, Chen C, Ye Z, Liu Z*. Association of lifestyle with mortality and the mediating role of aging among older adults in China. Arch Gerontol Geriatr. 2022 Jan-Feb.</span>  
-<span style='font-family: Times New Roman;'>3. Four times Zhejiang University First Class Scholarship (2019-2020/2020-2021/2021-2022/2022-2023)</span>  
-<span style='font-family: Times New Roman;'>4. Outstanding Graduates of Zhejiang Province</span>  
-<span style='font-family: Times New Roman;'>5. Runner-up of Men's 800m in Zhejiang Provincial University Games</span>  
-<span style='font-family: Times New Roman;'>6. Top Ten Students of Zhejiang University/Top Ten Students of Zhejiang University School of Medicine</span>  
-<span style='font-family: Times New Roman;'>7. Zhejiang University's nine consecutive titles in school athletics</span>  
+<span style='font-family: Times New Roman;'>1. <b>Jin S</b><sup>#</sup>, Li C<sup>#</sup>, Miao J, et al. Sociodemographic Factors Predict Incident Mild Cognitive Impairment: A Brief Review and Empirical Study. J Am Med Dir Assoc. 2023 Sep 14. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/37716705/)</span>  
+<span style='font-family: Times New Roman;'>2. <b>Jin S</b><sup>#</sup>, Li C<sup>#</sup>, Cao X, et al. Association of lifestyle with mortality and the mediating role of aging among older adults in China. Arch Gerontol Geriatr. 2022 Jan-Feb.</span>  
+<span style='font-family: Times New Roman;'>3. Sun K<sup>#</sup>, <b>Jin S</b><sup>#</sup>, Yang Z, et al. Transition to healthier lifestyle associated with reduced risk of incident dementia and decreased hippocampal atrophy. J Affect Disord. 2024 Jan 7.</span>  
+<span style='font-family: Times New Roman;'>4. Li C<sup>#</sup>, <b>Jin S</b><sup>#</sup>, Cao X, et al. Catastrophic health expenditure among Chinese adults living alone with cognitive impairment: findings from the CHARLS. BMC Geriatr. 2022 Aug 4. </span>  
+<span style='font-family: Times New Roman;'>5. Liu X<sup>#</sup>, Li C<sup>#</sup>, <b>Jin S</b><sup>#</sup>, et al. Functional disability and receipt of informal care among Chinese adults living alone with cognitive impairment.</span>  
 
 Site-wide configuration
 ------
