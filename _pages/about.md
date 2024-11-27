@@ -55,7 +55,7 @@ Postgraduate (in progress): Vanke School of Public Health, Tsinghua University.
 
 <span style='font-family: Times New Roman;'>Internship Exchange</span>
 ------
-<span style='font-family: Times New Roman;'>1. Zhejiang Provincial People's Hospital Clinical Rotation (Internal Medicine, Gynaecology, Paediatrics and Infectious Diseases) Overall. Internship Score (100/100) -- 2022.6-2022.10</span>  
+<span style='font-family: Times New Roman;'>1. Zhejiang Provincial People's Hospital Clinical Rotation (Internal Medicine, Gynaecology, Paediatrics and Infectious Diseases). Internship Score (100/100) -- 2022.6-2022.10</span>  
 <span style='font-family: Times New Roman;'>2. The University of Hong Kong - Zhejiang University Faculty of Medicine Undergraduate Exchange Programme, Spring/Summer Semester, Academic Year 2021-2022 -- 2022.8.6-20</span>  
 <span style='font-family: Times New Roman;'>3. Centre for Disease Prevention and Control, Xihu District, Hangzhou, Zhejiang Province. Internship Score (100/100) -- 2024.3-2022.5</span>  
 
