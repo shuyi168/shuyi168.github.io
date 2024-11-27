@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 <p style="font-family: Times New Roman; text-align: justify;">
-Bachelor's Degree: Zhejiang University School of Medicine. GPA(4.61/5), Rank(1/73)<br>
-Master's Degree in progress: Vanke School of Public Health, Tsinghua University.
+Undergraduate: Zhejiang University School of Medicine. GPA(4.61/5), Rank(1/73)<br>
+Postgraduate (in progress): Vanke School of Public Health, Tsinghua University.
 </p>
 
 <span style='font-family: Times New Roman;'>Student work experience</span>
@@ -53,3 +53,14 @@ Master's Degree in progress: Vanke School of Public Health, Tsinghua University.
 <span style='font-family: Times New Roman;'>6. Top Ten Students of Zhejiang University/Top Ten Students of Zhejiang University School of Medicine</span>  
 <span style='font-family: Times New Roman;'>7. Zhejiang University's nine consecutive titles in school athletics</span>  
 
+<span style='font-family: Times New Roman;'>Internship Exchange</span>
+------
+<span style='font-family: Times New Roman;'>1. Zhejiang Provincial People's Hospital Clinical Rotation (Internal Medicine, Gynaecology, Paediatrics and Infectious Diseases) Overall. Internship Score (100/100) -- 2022.6-2022.10</span>  
+<span style='font-family: Times New Roman;'>2. The University of Hong Kong - Zhejiang University Faculty of Medicine Undergraduate Exchange Programme, Spring/Summer Semester, Academic Year 2021-2022 -- 2022.8.6-20</span>  
+<span style='font-family: Times New Roman;'>3. Centre for Disease Prevention and Control, Xihu District, Hangzhou, Zhejiang Province. Internship Score (100/100) -- 2024.3-2022.5</span>  
+
+<span style='font-family: Times New Roman;'>Personal Capacity</span>
+------
+<span style='font-family: Times New Roman;'>English: CET6 594 (A)</span>  
+<span style='font-family: Times New Roman;'>Computer Skills: R Language, Stata, Photoshop, Lightroom</span>  
+<span style='font-family: Times New Roman;'>Hobbies: photography, piano, hosting, long-distance running, badminton, basketball</span>  
